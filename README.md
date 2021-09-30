@@ -1,5 +1,5 @@
 # Connect-Intellect
-<h3>Description:</h3> A Full Stack Realtime Chat Application with Direct and Group Chats, emojis & Reactions, Built-in Gif support, the ability to edit & delete messages, specialized commands, Authentication &amp; SMS Notifications.
+<h3>Description:</h3> A Full Stack Realtime Chat Application with features including Direct and Group Chats, emojis & Reactions, Built-in Gif support, the ability to edit & delete messages, specialized commands, Authentication &amp; SMS Notifications.
 
 <h3>Tech Stack used: </h3>
 
