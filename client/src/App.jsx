@@ -37,13 +37,13 @@ const App = () => {
                     isCreating = {isCreating}
                     setIsCreating = {setIsCreating}
                     setCreateType = {setCreateType}
-                    isEditing = {isEditing}
+                    setIsEditing={setIsEditing}
                 />
                 <ChannelContainer 
                     isCreating = {isCreating}
                     setIsCreating = {setIsCreating}
-                    setCreateType = {setCreateType}
-                    isEditing = {isEditing}
+                    isEditing={isEditing}
+                    setIsEditing={setIsEditing}
                     createType = {createType}
                 />
             </Chat>
