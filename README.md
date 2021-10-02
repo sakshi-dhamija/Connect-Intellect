@@ -44,6 +44,10 @@ STREAM_API_SECRET = <your api secret>
 - go to messaging > try it out > get set up.
 - After setting up go to send an sms in try it out section, click on messaging service id, and it will show an id in the dropdown menu, click on it. 
 - Now copy your account sid, auth token and messaging service sid from the code snippet present in the right side. ( Check figure below to see which ones ) and paste them in your `.env` file as follows: 
+
+![WhatsApp Image 2021-10-02 at 6 20 24 PM](https://user-images.githubusercontent.com/56053777/135716969-e68d4760-a348-4bef-9b48-f43ef2cd0847.jpeg)
+
+
 ```
 TWILIO_ACCOUNT_SID = <your accountSid>
 TWILIO_AUTH_TOKEN = <your auth token>
