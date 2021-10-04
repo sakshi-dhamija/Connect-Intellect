@@ -1,4 +1,7 @@
 # Connect-Intellect
+
+<i>Note:   hey everyone I'll be unavailable for next 3-4 days, due to an upcoming and important exam and also due to my health reasons. I'll give back reviews and merge pr's on a priority basis after that. Please excuse me till then and thank you! </i>
+
 <h3>Description:</h3> A Full Stack Realtime Chat Application with features including Direct and Group Chats, emojis & Reactions, Built-in Gif support, the ability to edit & delete messages, specialized commands, Authentication &amp; SMS Notifications.
 
 <h3>Tech Stack used: </h3>
