@@ -9,6 +9,7 @@
 * React js
 * Node js
 * getStream
+* twilio
 
 <h3>Installation: </h3>
 
