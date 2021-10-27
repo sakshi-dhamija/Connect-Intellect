@@ -57,7 +57,7 @@ FRONTEND_PRODUCTION = <frontend_production_web_app>
 Run in development mode
 
 Runs the application is development mode. Should not be used in production
-- Clinet
+- Client
 ```
 cd client
 npm start
